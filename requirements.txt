@@ -1,0 +1,6 @@
+streamlit
+langchain
+langgraph
+langchain-google-genai
+python-dotenv
+sqlite3-binary
